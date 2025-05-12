@@ -1,0 +1,22 @@
+# ninja log v6
+1	52	1746472175827374685	build.ninja	74cd1e9ccc02ae7
+1	38	1746391306705235750	CMakeFiles/Progetto_lab.dir/Scena_menager.c.o	26ec208aa0e61a2e
+47	86	1746391306751397027	Progetto_lab	c6e6f84de5a4ac17
+1	39	1746391306704781744	CMakeFiles/Progetto_lab.dir/main.c.o	6f0dee3c343a6155
+176	370	7671240335186045	Progetto_lab.exe	98fdab733cd13921
+1	47	1746391306705032331	CMakeFiles/Progetto_lab.dir/Data_set.c.o	49f5160c09140e61
+1	41	1746391306705143166	CMakeFiles/Progetto_lab.dir/info_Programma.c.o	49bf3bb04495dd0
+1	29	1746472523041633431	CMakeFiles/Progetto_lab.dir/main.c.o	65d3b2a7aba25cc
+1	30	1746472523041933932	CMakeFiles/Progetto_lab.dir/info_Programma.c.o	fe77421658bec4c4
+1	31	1746472523042210475	CMakeFiles/Progetto_lab.dir/Scena_menager.c.o	b0546fafaddd1dc8
+1	37	1746472523041834807	CMakeFiles/Progetto_lab.dir/Data_set.c.o	91c901d92f284cf
+37	71	1746472523077856865	Progetto_lab	e9a60983e48a0223
+1	26	1746476063635965099	CMakeFiles/Progetto_lab.dir/Scena_menager.c.o	b0546fafaddd1dc8
+0	26	1746476063635276305	CMakeFiles/Progetto_lab.dir/main.c.o	65d3b2a7aba25cc
+1	29	1746476063635666056	CMakeFiles/Progetto_lab.dir/info_Programma.c.o	fe77421658bec4c4
+1	32	1746476063635496264	CMakeFiles/Progetto_lab.dir/Data_set.c.o	91c901d92f284cf
+32	62	1746476063667344431	Progetto_lab	e9a60983e48a0223
+1	29	1746476171341080078	CMakeFiles/Progetto_lab.dir/Scena_menager.c.o	b0546fafaddd1dc8
+29	60	1746476171369595191	Progetto_lab	e9a60983e48a0223
+1	34	1746476397050542439	CMakeFiles/Progetto_lab.dir/Data_set.c.o	91c901d92f284cf
+34	61	1746476397083151609	Progetto_lab	e9a60983e48a0223
